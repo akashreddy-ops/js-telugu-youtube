@@ -11,4 +11,4 @@ I’ve started practicing JavaScript in GitHub Codespaces, a powerful cloud-base
 🔹 Core JavaScript concepts (Functions, Arrays, Objects, etc.)
 🔹 DOM Manipulation & Event Handling
 🔹 Asynchronous Programming (Promises & Async/Await)
-🔹 Small projects & problem-solving
+🔹 Small projects & problem-solving.
